@@ -9,8 +9,7 @@
 body {
     min-height: 100vh;
     position: relative;
-    /*background: linear-gradient(180deg, #090808, #1c1c1c);*/
-    background: url('https://i.ibb.co/fvDfF8t/background.png');
+    background: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fcosmetic-beauty-products-makeup-kit-2sn3a8d1w0uxarjw.jpg&tbnid=z5_YkhnfAi4N_M&vet=12ahUKEwjPp_Oz3vWDAxXXl2MGHa8FCIYQMygSegQIARB8..i&imgrefurl=https%3A%2F%2Fwallpapers.com%2Fwallpapers%2Fcosmetic-beauty-products-makeup-kit-2sn3a8d1w0uxarjw.html&docid=FHlgGdGqqpkOUM&w=1332&h=850&q=makeup%20kid%20background%20images&ved=2ahUKEwjPp_Oz3vWDAxXXl2MGHa8FCIYQMygSegQIARB8');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
